@@ -1,5 +1,5 @@
 # Metasploit Framework 6 in Termux
-[![GitHub Actions CI](https://github.com/gushmazuko/metasploit_in_termux/actions/workflows/termux-metasploit-arm64.yml/badge.svg)](https://github.com/gushmazuko/metasploit_in_termux/actions/workflows/termux-metasploit-arm64.yml) ![GitHub Repo stars](https://img.shields.io/github/stars/gushmazuko/metasploit_in_termux?style=social)
+[![GitHub Actions CI](https://github.com/gushmazuko/metasploit_in_termux/actions/workflows/termux-metasploit-arm64.yml/badge.svg)]https://github.com/pokuahhnyarko48-cmy/King_bless-repo/edit/main/README.md ![GitHub Repo stars](https://img.shields.io/github/stars/gushmazuko/metasploit_in_termux?style=social)
 
 ![Metasploit 6 running](https://i.imgur.com/yLFQhvP.png)
 
